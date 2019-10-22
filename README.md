@@ -65,6 +65,20 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [mall在Linux环境下的部署（基于Docker Compose）](https://juejin.im/post/5d1c98d66fb9a07ebf4b8ad5)
 - [mall前端项目的安装与部署](https://juejin.im/post/5d2c7c6b518825076377d7b9)
 
+
+## 进阶篇
+> 一套实用的SpringCloud系列教程，涵盖了大部分核心组件的使用，基于最新的Greenwich版本
+
+- [Spring Cloud 整体架构概览](https://juejin.im/post/5d764f05e51d4561fb04bfd7)
+- [Spring Cloud Eureka：服务注册与发现](https://juejin.im/post/5d78cd53f265da03d55e8351)
+- [Spring Cloud Ribbon：负载均衡的服务调用](https://juejin.im/post/5d7f9006f265da03951a260c)
+- [Spring Cloud Hystrix：服务容错保护](https://juejin.im/post/5d822d27e51d45621479ad92)
+- [Hystrix Dashboard：断路器执行监控](https://juejin.im/post/5d88cb58f265da03e4679eff)
+- [Spring Cloud OpenFeign：基于Ribbon和Hystrix的声明式服务调用](https://juejin.im/post/5d9c85c3e51d45782c23fab6)
+- [Spring Cloud Zuul：API网关服务](https://juejin.im/post/5d9f2dea6fb9a04e3e724067)
+- [Spring Cloud Config：外部集中化配置管理](https://juejin.im/post/5da4709af265da5baa5b06ac)
+- [Spring Cloud Bus：消息总线](https://juejin.im/post/5da70d1351882509615bea34)
+
 ## 参考篇
 > mall相关技术的使用教程
 
